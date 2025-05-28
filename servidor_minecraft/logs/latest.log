@@ -1022,3 +1022,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28May2025 17:17:20.898] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-492, y=15, z=-1882}
 [28May2025 17:17:21.016] [Worker-Main-40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
 [28May2025 17:18:23.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has reached the goal [Skyslime Island]
+[28May2025 17:32:31.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX moved too quickly! -4.733475174215714,-1.9031272476744618,8.903272604447807
+[28May2025 17:33:07.702] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-369, y=-26, z=-201}
+[28May2025 17:33:07.968] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=266, y=37, z=-203}
+[28May2025 17:41:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Living Armor]
+[28May2025 17:41:55.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Undead Guard]
