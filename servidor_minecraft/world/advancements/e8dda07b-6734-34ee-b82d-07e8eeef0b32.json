@@ -5414,6 +5414,186 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-05-28 16:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-28 16:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-28 16:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-28 16:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-28 16:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-28 16:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-28 16:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-05-28 16:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-28 16:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-28 16:55:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-28 17:00:00 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-05-28 17:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-28 17:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-05-28 17:00:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-05-28 17:18:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-05-28 17:18:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-05-28 17:18:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-05-28 17:18:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-05-28 17:18:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/slimeball_from_block": {
+    "criteria": {
+      "has_item": "2025-05-28 17:19:01 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/redstone/resetting_lever_thirty_from_inv": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
@@ -5438,18 +5618,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
-    "criteria": {
-      "has_item": "2025-05-28 17:18:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-28 17:42:46 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_ten_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
@@ -5459,18 +5627,6 @@
   "enderio:recipes/redstone/resetting_lever_thirty_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
     },
     "done": true
   },
@@ -5498,51 +5654,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-28 17:42:46 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/common/slime/sky/slimeball_from_block": {
-    "criteria": {
-      "has_item": "2025-05-28 17:19:01 +0000"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
-    "criteria": {
-      "has_ingredient": "2025-05-28 17:00:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-05-28 17:29:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_sixty_from_inv": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
     },
     "done": true
   },
@@ -5558,51 +5672,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-28 16:55:50 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
-    "criteria": {
-      "has_dirt": "2025-05-28 17:18:36 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_ten_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_haunted_guard": {
-    "criteria": {
-      "ambusher": "2025-05-28 17:41:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-05-28 16:27:23 +0000"
     },
     "done": true
   },
@@ -5624,57 +5702,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/gadgets/punji": {
-    "criteria": {
-      "has_item": "2025-05-28 16:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-05-28 17:42:46 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_sixty": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-05-28 16:53:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-28 17:00:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/sky_island": {
-    "criteria": {
-      "found_island": "2025-05-28 17:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-05-28 16:34:18 +0000"
     },
     "done": true
   },
@@ -5690,12 +5720,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_thirty_inv": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
@@ -5708,33 +5732,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
-    "criteria": {
-      "has_item": "2025-05-28 17:18:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-28 16:53:46 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
-    "criteria": {
-      "has_item": "2025-05-28 17:18:31 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_three_hundred_inv_from_prev": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-05-28 17:00:27 +0000"
     },
     "done": true
   },
@@ -5744,45 +5744,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-05-28 16:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-05-28 17:00:00 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/redstone/resetting_lever_ten_inv": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_haunted_knight": {
-    "criteria": {
-      "ambusher": "2025-05-28 17:41:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-05-28 16:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-05-28 16:55:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-05-28 16:27:20 +0000"
     },
     "done": true
   },
@@ -5795,6 +5759,42 @@
   "enderio:recipes/redstone/resetting_lever_sixty_inv_from_base": {
     "criteria": {
       "has_ingredient": "2025-05-28 17:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 17:29:53 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-05-28 17:41:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_guard": {
+    "criteria": {
+      "ambusher": "2025-05-28 17:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-28 17:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-28 17:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-28 17:42:46 +0000"
     },
     "done": true
   },
