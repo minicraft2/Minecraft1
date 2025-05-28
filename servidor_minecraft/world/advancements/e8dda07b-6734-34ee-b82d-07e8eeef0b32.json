@@ -1096,6 +1096,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-24 01:43:43 +0000",
       "minecraft:skeleton": "2025-05-24 01:20:25 +0000",
+      "minecraft:ghast": "2025-05-28 21:15:21 +0000",
       "minecraft:vindicator": "2025-05-24 02:19:19 +0000",
       "minecraft:spider": "2025-05-24 01:22:41 +0000",
       "minecraft:creeper": "2025-05-24 01:37:18 +0000",
@@ -5795,6 +5796,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-28 17:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-28 21:15:21 +0000"
     },
     "done": true
   },
