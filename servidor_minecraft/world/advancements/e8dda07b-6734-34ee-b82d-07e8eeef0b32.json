@@ -1099,6 +1099,7 @@
       "minecraft:spider": "2025-05-24 01:22:41 +0000",
       "minecraft:creeper": "2025-05-24 01:37:18 +0000",
       "minecraft:slime": "2025-05-27 23:24:12 +0000",
+      "minecraft:zombified_piglin": "2025-05-28 16:16:30 +0000",
       "minecraft:witch": "2025-05-24 21:42:05 +0000",
       "minecraft:wither_skeleton": "2025-05-26 01:32:02 +0000",
       "minecraft:cave_spider": "2025-05-26 01:41:00 +0000",
@@ -5408,6 +5409,36 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-05-28 03:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-28 16:27:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-05-28 16:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-28 16:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-28 16:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-28 16:27:20 +0000"
     },
     "done": true
   },
