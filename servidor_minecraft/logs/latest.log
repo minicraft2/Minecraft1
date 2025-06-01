@@ -832,3 +832,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 22:16:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 fell from a high place
 [01Jun2025 22:20:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Stray
 [01Jun2025 22:25:55.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[01Jun2025 22:32:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was blown up by Crawler
+[01Jun2025 22:32:51.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[01Jun2025 22:33:40.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
+[01Jun2025 22:33:42.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[01Jun2025 22:34:34.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[01Jun2025 22:35:07.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
+[01Jun2025 22:35:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 withered away whilst fighting Vampire in Flight
