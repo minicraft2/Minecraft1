@@ -95,6 +95,7 @@
       "minecraft:lush_caves": "2025-05-24 02:10:42 +0000",
       "minecraft:jungle": "2025-05-24 01:47:36 +0000",
       "minecraft:deep_dark": "2025-05-24 02:04:36 +0000",
+      "minecraft:meadow": "2025-06-01 20:52:44 +0000",
       "minecraft:savanna": "2025-05-24 02:17:39 +0000",
       "minecraft:plains": "2025-05-24 01:29:27 +0000"
     },
@@ -599,6 +600,7 @@
       "cooked_beef": "2025-05-24 01:36:45 +0000",
       "porkchop": "2025-05-26 00:47:54 +0000",
       "potato": "2025-05-26 02:08:56 +0000",
+      "pumpkin_pie": "2025-06-01 21:03:05 +0000",
       "mutton": "2025-05-24 01:30:24 +0000",
       "bread": "2025-05-24 02:23:38 +0000",
       "golden_apple": "2025-05-26 01:00:06 +0000",
@@ -3582,9 +3584,27 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-06-01 21:05:09 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-06-01 21:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-01 20:45:49 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-01 21:14:34 +0000"
     },
     "done": true
   },
@@ -3594,9 +3614,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-01 21:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-01 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-01 21:12:52 +0000"
     },
     "done": true
   },

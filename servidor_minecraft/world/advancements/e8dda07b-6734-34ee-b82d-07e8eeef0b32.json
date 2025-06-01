@@ -5943,5 +5943,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-01 21:01:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

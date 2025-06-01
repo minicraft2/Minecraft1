@@ -767,3 +767,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 20:49:40.380] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-512, y=-30, z=-528}
 [01Jun2025 20:49:41.154] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
 [01Jun2025 20:50:08.159] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-572, y=-5, z=-440}
+[01Jun2025 20:59:49.714] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-580, y=24, z=-373}
+[01Jun2025 20:59:49.715] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-580, y=24, z=-372}
+[01Jun2025 20:59:54.209] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-624, y=-23, z=-349}
+[01Jun2025 20:59:58.125] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-676, y=-9, z=-788}
+[01Jun2025 20:59:58.126] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-674, y=-9, z=-788}
+[01Jun2025 21:00:01.622] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-584, y=-48, z=-315}
+[01Jun2025 21:00:01.622] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-585, y=-48, z=-315}
+[01Jun2025 21:00:25.387] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:00:33.568] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-743, y=-16, z=-882}
+[01Jun2025 21:00:34.059] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-676, y=-30, z=-230}
+[01Jun2025 21:00:45.257] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-652, y=-17, z=-175}
+[01Jun2025 21:01:05.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [The Lighthouse]
+[01Jun2025 21:01:07.109] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.138] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.140] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.145] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.165] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.170] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.174] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.180] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.181] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.194] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.204] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.231] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.237] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.244] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.261] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.271] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.335] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.344] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:07.375] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 21:01:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [The Lighthouse]
+[01Jun2025 21:03:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was doomed to fall by danielosmkplyr07
+[01Jun2025 21:04:14.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Equestrian
+[01Jun2025 21:05:09.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [First Age]
+[01Jun2025 21:09:33.417] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[01Jun2025 21:12:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [Getting an Upgrade]
+[01Jun2025 21:14:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [Chest Slayer]
+[01Jun2025 21:18:35.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was blown up by Creeper
+[01Jun2025 21:20:22.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [A Terrifying Entrance]
+[01Jun2025 21:22:03.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Posessed Paladin
