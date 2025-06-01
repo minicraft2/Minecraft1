@@ -3584,27 +3584,9 @@
     },
     "done": true
   },
-  "evilcraft:first_age": {
-    "criteria": {
-      "criteria_0": "2025-06-01 21:05:09 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_abandoned_crypt": {
-    "criteria": {
-      "abandoned_crypt": "2025-06-01 21:20:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-01 20:45:49 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-06-01 21:14:34 +0000"
     },
     "done": true
   },
@@ -3614,9 +3596,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "location0": "2025-06-01 21:01:50 +0000"
+      "has_gunpowder": "2025-06-01 20:45:49 +0000"
     },
     "done": true
   },
@@ -3626,15 +3608,45 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-01 21:01:50 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-06-01 21:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-01 21:12:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "has_gunpowder": "2025-06-01 20:45:49 +0000"
+      "kill_mimic": "2025-06-01 21:14:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-06-01 21:20:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-06-01 21:21:24 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-06-01 21:31:22 +0000"
     },
     "done": true
   },

@@ -808,3 +808,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:18:35.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was blown up by Creeper
 [01Jun2025 21:20:22.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [A Terrifying Entrance]
 [01Jun2025 21:22:03.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Posessed Paladin
+[01Jun2025 21:25:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
+[01Jun2025 21:26:47.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danielosmkplyr07 lost connection: Timed out
+[01Jun2025 21:26:47.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 left the game
+[01Jun2025 21:26:47.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danielosmkplyr07[/100.102.112.8:63979] logged in with entity id 22758 at (-28.26442081364451, 108.0, -624.0532552830252)
+[01Jun2025 21:26:47.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 joined the game
+[01Jun2025 21:26:47.566] [Server thread/INFO] [Jade/]: Syncing config to danielosmkplyr07 (d8146cbd-30c3-3907-99cf-d06b002cdb52)
+[01Jun2025 21:28:17.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
+[01Jun2025 21:28:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 fell from a high place
+[01Jun2025 21:31:22.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [People Are Strange]
+[01Jun2025 21:31:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Posessed Paladin
+[01Jun2025 21:33:23.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danielosmkplyr07 lost connection: Disconnected
+[01Jun2025 21:33:23.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 left the game
+[01Jun2025 21:35:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Posessed Paladin
+[01Jun2025 21:37:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
