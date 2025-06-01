@@ -827,3 +827,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:48:53.995] [Server thread/INFO] [Jade/]: Syncing config to danielosmkplyr07 (d8146cbd-30c3-3907-99cf-d06b002cdb52)
 [01Jun2025 21:54:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [People Are Strange]
 [01Jun2025 22:03:54.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Meature
+[01Jun2025 22:16:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was blown up by Crawler
+[01Jun2025 22:16:22.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 fell from a high place

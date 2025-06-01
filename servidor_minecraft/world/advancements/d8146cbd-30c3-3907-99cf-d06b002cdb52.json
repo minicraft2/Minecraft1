@@ -3653,7 +3653,8 @@
   },
   "tconstruct:world/ancient_tools": {
     "criteria": {
-      "war_pick": "2025-06-01 22:00:13 +0000"
+      "war_pick": "2025-06-01 22:00:13 +0000",
+      "melting_pan": "2025-06-01 22:13:26 +0000"
     },
     "done": false
   },
@@ -3666,8 +3667,10 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "slimewood": "2025-06-01 22:00:13 +0000",
+      "cobalt": "2025-06-01 22:13:26 +0000",
       "rock": "2025-06-01 22:00:13 +0000",
-      "skyslime_vine": "2025-06-01 22:00:13 +0000"
+      "skyslime_vine": "2025-06-01 22:00:13 +0000",
+      "blazing_bone": "2025-06-01 22:13:26 +0000"
     },
     "done": false
   },
