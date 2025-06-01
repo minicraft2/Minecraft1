@@ -758,3 +758,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 20:40:38.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX joined the game
 [01Jun2025 20:40:38.300] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
 [01Jun2025 20:41:00.852] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-728, y=7, z=43}
+[01Jun2025 20:47:56.806] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-537, y=-33, z=-238}
+[01Jun2025 20:48:19.503] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=143, y=21, z=-56}
+[01Jun2025 20:48:27.017] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 20:48:31.028] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-451, y=-39, z=-289}
+[01Jun2025 20:48:31.029] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-453, y=-39, z=-289}
+[01Jun2025 20:49:27.827] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-458, y=39, z=-539}
+[01Jun2025 20:49:40.380] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-512, y=-30, z=-528}
+[01Jun2025 20:49:41.154] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=201, y=51, z=176}
+[01Jun2025 20:50:08.159] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-572, y=-5, z=-440}

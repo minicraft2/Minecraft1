@@ -1343,6 +1343,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-26 01:00:33 +0000",
       "minecraft:spider": "2025-05-24 01:42:15 +0000",
+      "minecraft:creeper": "2025-06-01 20:45:48 +0000",
       "minecraft:wither_skeleton": "2025-05-26 01:35:42 +0000",
       "minecraft:cave_spider": "2025-05-26 01:27:41 +0000",
       "minecraft:zombie": "2025-05-24 01:37:29 +0000"
@@ -3578,6 +3579,30 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-05-26 02:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 20:45:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 20:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-01 20:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 20:45:49 +0000"
     },
     "done": true
   },
