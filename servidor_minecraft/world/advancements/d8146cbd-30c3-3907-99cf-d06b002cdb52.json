@@ -3652,12 +3652,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/ancient_tools": {
     "criteria": {
       "war_pick": "2025-06-01 22:00:13 +0000",
       "melting_pan": "2025-06-01 22:13:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
   },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
@@ -3674,6 +3728,12 @@
       "blazing_bone": "2025-06-01 22:13:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

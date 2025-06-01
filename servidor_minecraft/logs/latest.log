@@ -839,3 +839,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 22:34:34.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
 [01Jun2025 22:35:07.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
 [01Jun2025 22:35:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 withered away whilst fighting Vampire in Flight
+[01Jun2025 22:39:18.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Stray
+[01Jun2025 22:43:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Stray
+[01Jun2025 22:45:06.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Stray
+[01Jun2025 22:45:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Enderman
+[01Jun2025 22:45:54.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Equestrian
