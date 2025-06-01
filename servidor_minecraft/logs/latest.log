@@ -822,3 +822,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:33:23.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 left the game
 [01Jun2025 21:35:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was slain by Posessed Paladin
 [01Jun2025 21:37:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX was shot by Skeleton
+[01Jun2025 21:48:53.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danielosmkplyr07[/100.102.112.8:64689] logged in with entity id 31797 at (-28.461691216749625, 108.0, -625.8949872108814)
+[01Jun2025 21:48:53.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 joined the game
+[01Jun2025 21:48:53.995] [Server thread/INFO] [Jade/]: Syncing config to danielosmkplyr07 (d8146cbd-30c3-3907-99cf-d06b002cdb52)
+[01Jun2025 21:54:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [People Are Strange]
+[01Jun2025 22:03:54.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Meature

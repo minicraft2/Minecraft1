@@ -1343,6 +1343,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-01 21:56:28 +0000",
       "minecraft:skeleton": "2025-05-26 01:00:33 +0000",
       "minecraft:spider": "2025-05-24 01:42:15 +0000",
       "minecraft:creeper": "2025-06-01 20:45:48 +0000",
@@ -3649,6 +3650,26 @@
       "location0": "2025-06-01 21:31:22 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-06-01 22:00:13 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-06-01 22:00:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "slimewood": "2025-06-01 22:00:13 +0000",
+      "rock": "2025-06-01 22:00:13 +0000",
+      "skyslime_vine": "2025-06-01 22:00:13 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
