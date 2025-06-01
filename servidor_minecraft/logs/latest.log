@@ -829,3 +829,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 22:03:54.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Meature
 [01Jun2025 22:16:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was blown up by Crawler
 [01Jun2025 22:16:22.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 fell from a high place
+[01Jun2025 22:16:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 fell from a high place
+[01Jun2025 22:20:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Stray
+[01Jun2025 22:25:55.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton
