@@ -757,3 +757,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 01:18:37.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=65, z=-685} BlockPos{x=-76, y=63, z=-684}
 [04Jun2025 01:20:19.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [A Seedy Place]
 [04Jun2025 01:37:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [En Garde!]
+[04Jun2025 01:54:24.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was slain by Zombie
+[04Jun2025 02:03:27.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Timed out
+[04Jun2025 02:03:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[04Jun2025 02:05:37.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacMBX[/100.112.11.50:59515] logged in with entity id 21250 at (-54.82676494190519, 113.0, -1041.7150394635719)
+[04Jun2025 02:05:37.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX joined the game
+[04Jun2025 02:05:37.970] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
+[04Jun2025 02:11:00.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IsaacMBX> SEXOOOOO
+[04Jun2025 02:11:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <danielosmkplyr07> me da miedo
+[04Jun2025 02:11:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton Musketeer
+[04Jun2025 02:12:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton Musketeer
