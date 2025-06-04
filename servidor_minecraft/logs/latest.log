@@ -756,3 +756,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 01:15:45.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=72, z=-703} BlockPos{x=-11, y=70, z=-703}
 [04Jun2025 01:18:37.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=65, z=-685} BlockPos{x=-76, y=63, z=-684}
 [04Jun2025 01:20:19.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [A Seedy Place]
+[04Jun2025 01:37:27.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has made the advancement [En Garde!]
