@@ -768,3 +768,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jun2025 02:11:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton Musketeer
 [04Jun2025 02:12:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 was shot by Skeleton Musketeer
 [04Jun2025 02:22:31.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [The Parrots and the Bats]
+[04Jun2025 02:24:34.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=63, z=-878} BlockPos{x=64, y=62, z=-877}
+[04Jun2025 02:27:10.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 has reached the goal [Hunted]
