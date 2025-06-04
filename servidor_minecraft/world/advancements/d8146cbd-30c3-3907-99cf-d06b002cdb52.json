@@ -85,6 +85,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-06-04 01:26:31 +0000",
+      "minecraft:sunflower_plains": "2025-06-04 01:25:05 +0000",
       "minecraft:bamboo_jungle": "2025-05-24 02:08:49 +0000",
       "minecraft:savanna_plateau": "2025-05-24 02:22:52 +0000",
       "minecraft:stony_peaks": "2025-05-24 01:30:16 +0000",
@@ -94,6 +96,7 @@
       "minecraft:forest": "2025-05-24 01:27:40 +0000",
       "minecraft:lush_caves": "2025-05-24 02:10:42 +0000",
       "minecraft:jungle": "2025-05-24 01:47:36 +0000",
+      "minecraft:flower_forest": "2025-06-04 01:24:50 +0000",
       "minecraft:deep_dark": "2025-05-24 02:04:36 +0000",
       "minecraft:meadow": "2025-06-01 20:52:44 +0000",
       "minecraft:savanna": "2025-05-24 02:17:39 +0000",
@@ -3652,6 +3655,29 @@
     },
     "done": true
   },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-06-01 22:00:13 +0000",
+      "melting_pan": "2025-06-01 22:13:26 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-06-01 22:00:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "slimewood": "2025-06-01 22:00:13 +0000",
+      "cobalt": "2025-06-01 22:13:26 +0000",
+      "rock": "2025-06-01 22:00:13 +0000",
+      "skyslime_vine": "2025-06-01 22:00:13 +0000",
+      "blazing_bone": "2025-06-01 22:13:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-01 22:42:36 +0000"
@@ -3700,38 +3726,81 @@
     },
     "done": true
   },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "war_pick": "2025-06-01 22:00:13 +0000",
-      "melting_pan": "2025-06-01 22:13:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-01 22:42:36 +0000"
     },
     "done": true
   },
-  "tconstruct:tools/tinker_tool": {
-    "criteria": {
-      "crafted_tool": "2025-06-01 22:00:13 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/material_master": {
-    "criteria": {
-      "slimewood": "2025-06-01 22:00:13 +0000",
-      "cobalt": "2025-06-01 22:13:26 +0000",
-      "rock": "2025-06-01 22:00:13 +0000",
-      "skyslime_vine": "2025-06-01 22:00:13 +0000",
-      "blazing_bone": "2025-06-01 22:13:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-01 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-01 22:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-04 01:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-04 01:23:54 +0000"
     },
     "done": true
   },
