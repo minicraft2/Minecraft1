@@ -753,3 +753,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jun2025 16:57:55.595] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
 [05Jun2025 16:57:58.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
 [05Jun2025 16:59:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Enchanter]
+[05Jun2025 17:14:59.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [When in Rome]
