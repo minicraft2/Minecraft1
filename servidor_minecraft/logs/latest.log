@@ -799,3 +799,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 21:45:08.040] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
 [08Jun2025 21:46:10.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Disconnected
 [08Jun2025 21:46:10.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[08Jun2025 21:50:15.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacMBX[/100.112.11.50:58844] logged in with entity id 8047 at (-14.5, 113.12126129330588, -652.5)
+[08Jun2025 21:50:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX joined the game
+[08Jun2025 21:50:15.342] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
+[08Jun2025 21:51:07.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Timed out
+[08Jun2025 21:51:07.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[08Jun2025 21:51:15.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacMBX[/100.112.11.50:58861] logged in with entity id 8620 at (-14.5, 113.12126129330588, -652.5)
+[08Jun2025 21:51:15.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX joined the game
+[08Jun2025 21:51:15.489] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
+[08Jun2025 21:52:44.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Timed out
+[08Jun2025 21:52:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[08Jun2025 21:56:19.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacMBX[/100.112.11.50:59089] logged in with entity id 10583 at (-21.40497606989381, 113.0, -649.649789097946)
+[08Jun2025 21:56:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX joined the game
+[08Jun2025 21:56:19.432] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
