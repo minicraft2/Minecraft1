@@ -752,3 +752,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 20:05:20.205] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
 [08Jun2025 20:05:22.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
 [08Jun2025 20:10:12.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX has made the advancement [Swashbuckler]
+[08Jun2025 20:14:45.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danielosmkplyr07[/100.102.112.8:50355] logged in with entity id 3003 at (-73.59892829983023, 111.0, -1027.6719247691053)
+[08Jun2025 20:14:45.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 joined the game
+[08Jun2025 20:14:45.562] [Server thread/INFO] [Jade/]: Syncing config to danielosmkplyr07 (d8146cbd-30c3-3907-99cf-d06b002cdb52)
+[08Jun2025 20:18:01.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danielosmkplyr07 lost connection: Disconnected
+[08Jun2025 20:18:01.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 left the game
+[08Jun2025 20:18:09.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danielosmkplyr07[/100.102.112.8:50442] logged in with entity id 5272 at (-59.35894581930946, 112.0, -1030.0072892337735)
+[08Jun2025 20:18:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 joined the game
+[08Jun2025 20:18:09.353] [Server thread/INFO] [Jade/]: Syncing config to danielosmkplyr07 (d8146cbd-30c3-3907-99cf-d06b002cdb52)
+[08Jun2025 20:18:32.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danielosmkplyr07 lost connection: Disconnected
+[08Jun2025 20:18:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 left the game
+[08Jun2025 20:18:41.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danielosmkplyr07[/100.102.112.8:50451] logged in with entity id 5401 at (-59.35894581930946, 112.0, -1030.0072892337735)
+[08Jun2025 20:18:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 joined the game
+[08Jun2025 20:18:41.287] [Server thread/INFO] [Jade/]: Syncing config to danielosmkplyr07 (d8146cbd-30c3-3907-99cf-d06b002cdb52)
+[08Jun2025 20:19:09.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danielosmkplyr07 lost connection: Disconnected
+[08Jun2025 20:19:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danielosmkplyr07 left the game
+[08Jun2025 20:22:22.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Disconnected
+[08Jun2025 20:22:22.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[08Jun2025 20:22:22.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ecd000b[id=<null>,name=danielosmkplyr07,properties={},legacy=false] (/100.102.112.8:50626) lost connection: Disconnected
+[08Jun2025 20:22:29.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jun2025 20:22:29.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jun2025 20:22:29.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jun2025 20:22:29.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jun2025 20:22:29.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jun2025 20:22:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jun2025 20:22:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jun2025 20:22:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jun2025 20:22:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jun2025 20:22:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jun2025 20:22:29.856] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
