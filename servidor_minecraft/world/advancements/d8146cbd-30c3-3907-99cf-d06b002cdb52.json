@@ -89,6 +89,7 @@
       "minecraft:sunflower_plains": "2025-06-04 01:25:05 +0000",
       "minecraft:bamboo_jungle": "2025-05-24 02:08:49 +0000",
       "minecraft:savanna_plateau": "2025-05-24 02:22:52 +0000",
+      "minecraft:beach": "2025-06-08 22:16:24 +0000",
       "minecraft:stony_peaks": "2025-05-24 01:30:16 +0000",
       "minecraft:sparse_jungle": "2025-05-24 01:29:52 +0000",
       "minecraft:river": "2025-05-24 01:29:23 +0000",
@@ -96,6 +97,7 @@
       "minecraft:forest": "2025-05-24 01:27:40 +0000",
       "minecraft:lush_caves": "2025-05-24 02:10:42 +0000",
       "minecraft:jungle": "2025-05-24 01:47:36 +0000",
+      "minecraft:ocean": "2025-06-08 22:17:09 +0000",
       "minecraft:flower_forest": "2025-06-04 01:24:50 +0000",
       "minecraft:deep_dark": "2025-05-24 02:04:36 +0000",
       "minecraft:meadow": "2025-06-01 20:52:44 +0000",
@@ -4172,15 +4174,15 @@
     },
     "done": true
   },
-  "usefulbackpacks:recipes/backpack_large": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_medium_backpack": "2025-06-08 21:50:24 +0000"
+      "has_ink_sac": "2025-06-08 21:46:53 +0000"
     },
     "done": true
   },
-  "usefulbackpacks:recipes/backpack_medium": {
+  "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
-      "has_small_backpack": "2025-06-08 21:48:43 +0000"
+      "has_the_recipe": "2025-06-08 21:47:42 +0000"
     },
     "done": true
   },
@@ -4190,27 +4192,9 @@
     },
     "done": true
   },
-  "usefulbackpacks:recipes/filter_item": {
-    "criteria": {
-      "has_small_backpack": "2025-06-08 21:48:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-06-08 21:47:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-06-08 21:46:53 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/filter_tag": {
-    "criteria": {
-      "has_small_backpack": "2025-06-08 21:48:43 +0000"
     },
     "done": true
   },
@@ -4220,9 +4204,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "usefulbackpacks:recipes/backpack_medium": {
     "criteria": {
-      "has_the_recipe": "2025-06-08 21:47:42 +0000"
+      "has_small_backpack": "2025-06-08 21:48:43 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-06-08 21:48:43 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2025-06-08 21:48:43 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-06-08 21:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-08 22:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-06-08 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-08 22:13:09 +0000"
     },
     "done": true
   },
