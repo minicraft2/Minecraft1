@@ -87,10 +87,12 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-06-04 01:26:31 +0000",
       "minecraft:sunflower_plains": "2025-06-04 01:25:05 +0000",
+      "minecraft:birch_forest": "2025-06-08 22:53:43 +0000",
       "minecraft:bamboo_jungle": "2025-05-24 02:08:49 +0000",
       "minecraft:savanna_plateau": "2025-05-24 02:22:52 +0000",
       "minecraft:beach": "2025-06-08 22:16:24 +0000",
       "minecraft:stony_peaks": "2025-05-24 01:30:16 +0000",
+      "minecraft:dark_forest": "2025-06-08 23:02:26 +0000",
       "minecraft:sparse_jungle": "2025-05-24 01:29:52 +0000",
       "minecraft:river": "2025-05-24 01:29:23 +0000",
       "minecraft:dripstone_caves": "2025-05-24 01:43:19 +0000",
@@ -99,6 +101,7 @@
       "minecraft:jungle": "2025-05-24 01:47:36 +0000",
       "minecraft:ocean": "2025-06-08 22:17:09 +0000",
       "minecraft:flower_forest": "2025-06-04 01:24:50 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-08 23:04:27 +0000",
       "minecraft:deep_dark": "2025-05-24 02:04:36 +0000",
       "minecraft:meadow": "2025-06-01 20:52:44 +0000",
       "minecraft:savanna": "2025-05-24 02:17:39 +0000",
@@ -4228,6 +4231,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-08 22:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-08 22:13:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-06-08 22:14:08 +0000"
@@ -4249,12 +4264,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-06-08 22:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-06-08 22:13:09 +0000"
     },
     "done": true
   },
@@ -4288,9 +4297,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
-      "has_log": "2025-06-08 22:13:09 +0000"
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-08 22:29:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-08 22:41:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-08 22:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-08 22:41:09 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/mayonnaise": {
+    "criteria": {
+      "has_egg": "2025-06-08 22:41:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-08 22:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-08 22:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-08 22:41:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-06-08 22:49:20 +0000"
     },
     "done": true
   },

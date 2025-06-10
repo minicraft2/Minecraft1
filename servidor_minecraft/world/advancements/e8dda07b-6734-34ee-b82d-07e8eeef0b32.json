@@ -1109,6 +1109,7 @@
       "minecraft:stray": "2025-05-26 01:23:25 +0000",
       "minecraft:silverfish": "2025-06-01 22:30:05 +0000",
       "minecraft:zombie": "2025-05-24 00:43:21 +0000",
+      "minecraft:drowned": "2025-06-08 22:42:30 +0000",
       "minecraft:zombie_villager": "2025-05-24 02:05:33 +0000"
     },
     "done": false
@@ -6425,6 +6426,18 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-08 21:41:37 +0000"
+    },
+    "done": true
+  },
+  "call_of_drowner:utt": {
+    "criteria": {
+      "utt_0": "2025-06-08 22:45:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-06-08 22:48:23 +0000"
     },
     "done": true
   },

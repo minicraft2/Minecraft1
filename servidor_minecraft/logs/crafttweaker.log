@@ -1,12 +1,8 @@
-[22:29:24.288][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
-[22:29:24.324][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[22:29:24.414][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[22:29:24.423][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[22:29:24.433][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[22:29:26.945][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[22:29:26.947][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
-[22:29:26.947][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.7'
-[22:29:53.566][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[22:29:54.448][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[22:29:54.502][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[22:29:54.609][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[18:54:34.135][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[18:54:34.171][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[18:54:34.320][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:54:34.330][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:54:34.335][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[18:54:35.969][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:54:35.972][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[18:54:35.972][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.7'
