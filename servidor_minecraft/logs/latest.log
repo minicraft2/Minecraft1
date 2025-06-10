@@ -1,27 +1,27 @@
-[10Jun2025 18:54:12.633] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[10Jun2025 18:54:12.641] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[10Jun2025 18:54:15.605] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10Jun2025 18:54:15.684] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10Jun2025 18:54:16.490] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:16.492] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:16.494] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:16.495] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:16.926] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[10Jun2025 18:54:16.928] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 18 dependencies adding them to mods collection
-[10Jun2025 18:54:20.422] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Jun2025 18:54:20.518] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
-[10Jun2025 18:54:20.596] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
-[10Jun2025 18:54:20.687] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[10Jun2025 18:54:20.689] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[10Jun2025 18:54:20.690] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[10Jun2025 18:54:20.697] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[10Jun2025 18:54:20.715] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 18:54:20.729] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 41 options available, 0 override(s) found
-[10Jun2025 18:54:20.849] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 18:54:20.858] [main/WARN] [mixin/]: Reference map 'mixins.call_of_drowner.refmap.json' for mixins.call_of_drowner.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 18:54:20.912] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 18:54:20.914] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 18:54:20.949] [main/INFO] [Puzzles Lib/]: Loading 78 mods:
+[10Jun2025 18:57:57.410] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Jun2025 18:57:57.414] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[10Jun2025 18:57:58.332] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Jun2025 18:57:58.395] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[10Jun2025 18:57:58.742] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jun2025 18:57:58.743] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jun2025 18:57:58.744] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jun2025 18:57:58.745] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Jun2025 18:57:58.970] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[10Jun2025 18:57:58.971] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 18 dependencies adding them to mods collection
+[10Jun2025 18:58:02.155] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Jun2025 18:58:02.291] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[10Jun2025 18:58:02.369] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[10Jun2025 18:58:02.450] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[10Jun2025 18:58:02.457] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[10Jun2025 18:58:02.458] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[10Jun2025 18:58:02.472] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Jun2025 18:58:02.497] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jun2025 18:58:02.510] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 41 options available, 0 override(s) found
+[10Jun2025 18:58:02.651] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jun2025 18:58:02.665] [main/WARN] [mixin/]: Reference map 'mixins.call_of_drowner.refmap.json' for mixins.call_of_drowner.json could not be read. If this is a development environment you can ignore this message
+[10Jun2025 18:58:02.725] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jun2025 18:58:02.727] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jun2025 18:58:02.773] [main/INFO] [Puzzles Lib/]: Loading 78 mods:
 	- alexscaves 2.0.2
 	- aquamirae 6.API15
 	- architectury 9.2.14
@@ -102,29 +102,29 @@
 	- yungsapi 1.20-Forge-4.0.6
 	- yungsbridges 1.20-Forge-4.0.3
 	- yungsextras 1.20-Forge-4.0.3
-[10Jun2025 18:54:20.983] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
-[10Jun2025 18:54:22.810] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[10Jun2025 18:54:22.811] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[10Jun2025 18:54:22.811] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[10Jun2025 18:54:22.812] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[10Jun2025 18:54:22.812] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[10Jun2025 18:54:22.812] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[10Jun2025 18:54:22.814] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[10Jun2025 18:54:22.814] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[10Jun2025 18:54:23.054] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[10Jun2025 18:54:25.640] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zle000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[10Jun2025 18:54:28.541] [main/WARN] [mixin/]: @Final field f_265994_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[10Jun2025 18:54:28.541] [main/WARN] [mixin/]: @Final field f_265986_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[10Jun2025 18:54:28.541] [main/WARN] [mixin/]: @Final field f_266102_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[10Jun2025 18:54:28.541] [main/WARN] [mixin/]: @Final field f_38999_:Lorg/slf4j/Logger; in roundabout.mixins.json:ZAnvilMenu should be final
-[10Jun2025 18:54:28.541] [main/WARN] [mixin/]: @Final field f_150469_:Z in roundabout.mixins.json:ZAnvilMenu should be final
-[10Jun2025 18:54:28.542] [main/WARN] [mixin/]: @Final field f_150468_:I in roundabout.mixins.json:ZAnvilMenu should be final
-[10Jun2025 18:54:29.328] [main/WARN] [mixin/]: @Final field f_40615_:Ljava/util/function/Predicate; in roundabout.mixins.json:ZBoatItem should be final
-[10Jun2025 18:54:30.271] [main/WARN] [mixin/]: @Final field f_199889_:I in roundabout.mixins.json:ZNearestAttackableTargetGoal should be final
-[10Jun2025 18:54:32.010] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[10Jun2025 18:58:02.794] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jun2025 18:58:04.818] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[10Jun2025 18:58:04.819] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[10Jun2025 18:58:04.819] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[10Jun2025 18:58:04.821] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[10Jun2025 18:58:04.821] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[10Jun2025 18:58:04.821] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[10Jun2025 18:58:04.823] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[10Jun2025 18:58:04.824] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[10Jun2025 18:58:05.083] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10Jun2025 18:58:06.882] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zle000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[10Jun2025 18:58:08.683] [main/WARN] [mixin/]: @Final field f_265994_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[10Jun2025 18:58:08.683] [main/WARN] [mixin/]: @Final field f_265986_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[10Jun2025 18:58:08.683] [main/WARN] [mixin/]: @Final field f_266102_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[10Jun2025 18:58:08.684] [main/WARN] [mixin/]: @Final field f_38999_:Lorg/slf4j/Logger; in roundabout.mixins.json:ZAnvilMenu should be final
+[10Jun2025 18:58:08.684] [main/WARN] [mixin/]: @Final field f_150469_:Z in roundabout.mixins.json:ZAnvilMenu should be final
+[10Jun2025 18:58:08.684] [main/WARN] [mixin/]: @Final field f_150468_:I in roundabout.mixins.json:ZAnvilMenu should be final
+[10Jun2025 18:58:09.307] [main/WARN] [mixin/]: @Final field f_40615_:Ljava/util/function/Predicate; in roundabout.mixins.json:ZBoatItem should be final
+[10Jun2025 18:58:10.113] [main/WARN] [mixin/]: @Final field f_199889_:I in roundabout.mixins.json:ZNearestAttackableTargetGoal should be final
+[10Jun2025 18:58:11.611] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[10Jun2025 18:54:32.898] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@42507640 on thread Thread[modloading-worker-0,5,main]
-[10Jun2025 18:54:32.899] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[10Jun2025 18:58:12.338] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@35d60381 on thread Thread[modloading-worker-0,5,main]
+[10Jun2025 18:58:12.338] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
@@ -172,43 +172,43 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[10Jun2025 18:54:32.903] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[10Jun2025 18:54:33.219] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[10Jun2025 18:54:33.227] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[10Jun2025 18:54:33.240] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[10Jun2025 18:54:33.242] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[10Jun2025 18:54:33.247] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[10Jun2025 18:54:33.252] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[10Jun2025 18:54:33.258] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[10Jun2025 18:54:33.265] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[10Jun2025 18:54:33.269] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[10Jun2025 18:54:33.509] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[10Jun2025 18:54:34.188] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[10Jun2025 18:54:34.189] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[10Jun2025 18:54:35.333] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[10Jun2025 18:54:36.605] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[10Jun2025 18:54:36.800] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
-[10Jun2025 18:54:36.823] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
-[10Jun2025 18:54:36.828] [modloading-worker-0/INFO] [roundabout/]: Loaded server config
-[10Jun2025 18:54:37.085] [modloading-worker-0/INFO] [roundabout/]: Hello Forge world!
-[10Jun2025 18:54:37.092] [modloading-worker-0/INFO] [roundabout/]: Hello to roundabout
-[10Jun2025 18:54:37.266] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing AOTAConfig from '/workspaces/Minecraft1/servidor_minecraft/config/config/armoroftheages.json'
-[10Jun2025 18:54:37.381] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[10Jun2025 18:54:37.381] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[10Jun2025 18:54:37.384] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[10Jun2025 18:54:37.462] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/Minecraft1/servidor_minecraft/config/yacl.json5'
-[10Jun2025 18:54:37.552] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[10Jun2025 18:54:37.733] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[10Jun2025 18:54:37.812] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[10Jun2025 18:54:51.579] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded: 6425544
-[10Jun2025 18:54:51.579] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded (inc. passives + abilities): 3675411168
-[10Jun2025 18:54:56.664] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[10Jun2025 18:54:57.380] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[10Jun2025 18:54:57.390] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[10Jun2025 18:54:57.392] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[10Jun2025 18:54:57.396] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[10Jun2025 18:54:57.522] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[10Jun2025 18:54:57.593] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[10Jun2025 18:58:12.342] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[10Jun2025 18:58:12.611] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Jun2025 18:58:12.612] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Jun2025 18:58:12.617] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Jun2025 18:58:12.621] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Jun2025 18:58:12.637] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Jun2025 18:58:12.639] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Jun2025 18:58:12.642] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Jun2025 18:58:12.645] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[10Jun2025 18:58:12.648] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Jun2025 18:58:12.819] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[10Jun2025 18:58:13.518] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Jun2025 18:58:13.519] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Jun2025 18:58:14.482] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[10Jun2025 18:58:15.442] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[10Jun2025 18:58:15.566] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
+[10Jun2025 18:58:15.579] [modloading-worker-0/INFO] [roundabout/]: Loaded local config
+[10Jun2025 18:58:15.585] [modloading-worker-0/INFO] [roundabout/]: Loaded server config
+[10Jun2025 18:58:15.752] [modloading-worker-0/INFO] [roundabout/]: Hello Forge world!
+[10Jun2025 18:58:15.762] [modloading-worker-0/INFO] [roundabout/]: Hello to roundabout
+[10Jun2025 18:58:15.895] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing AOTAConfig from '/workspaces/Minecraft1/servidor_minecraft/config/config/armoroftheages.json'
+[10Jun2025 18:58:16.070] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[10Jun2025 18:58:16.071] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[10Jun2025 18:58:16.074] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[10Jun2025 18:58:16.181] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/Minecraft1/servidor_minecraft/config/yacl.json5'
+[10Jun2025 18:58:16.321] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[10Jun2025 18:58:16.484] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Jun2025 18:58:16.543] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[10Jun2025 18:58:26.476] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded: 6425544
+[10Jun2025 18:58:26.477] [modloading-worker-0/INFO] [com.sky.weaponmaster.WeaponMaster/]: Total varients loaded (inc. passives + abilities): 3675411168
+[10Jun2025 18:58:30.290] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[10Jun2025 18:58:30.881] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[10Jun2025 18:58:30.890] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[10Jun2025 18:58:30.892] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[10Jun2025 18:58:30.894] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[10Jun2025 18:58:31.012] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[10Jun2025 18:58:31.068] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.config.ConfigFileTypeHandler$ConfigLoadingException: Failed loading config file mowziesmobs-common.toml of type COMMON for modid mowziesmobs
 	at net.minecraftforge.fml.config.ConfigFileTypeHandler.lambda$reader$1(ConfigFileTypeHandler.java:47) ~[fmlcore-1.20.1-47.3.7.jar%23246!/:?]
 	at net.minecraftforge.fml.config.ConfigTracker.openConfig(ConfigTracker.java:60) ~[fmlcore-1.20.1-47.3.7.jar%23246!/:?]
