@@ -741,3 +741,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jun2025 16:48:38.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
 [11Jun2025 16:49:26.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IsaacMBX lost connection: Disconnected
 [11Jun2025 16:49:26.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX left the game
+[11Jun2025 16:51:45.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IsaacMBX[/100.112.11.50:51580] logged in with entity id 709 at (-16.759556993170232, 108.0, -628.8836100060939)
+[11Jun2025 16:51:45.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IsaacMBX joined the game
+[11Jun2025 16:51:45.330] [Server thread/INFO] [Jade/]: Syncing config to IsaacMBX (e8dda07b-6734-34ee-b82d-07e8eeef0b32)
